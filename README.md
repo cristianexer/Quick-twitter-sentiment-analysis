@@ -11,7 +11,7 @@ It might seem to be slow, but this mini-app is scrapping all the pages in the se
 
 Well, obviously using python requests is faster and nicer than using Selenium.
 
-However it depends on the case, as if the websit is using client-side rendering then Selenium would be the best choice.
+However it depends on the case, as if the website is using client-side rendering then Selenium would be the best choice.
 
 
 ### Run
